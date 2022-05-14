@@ -1,0 +1,17 @@
+.navbar {
+    float: left;
+    width: 100%;
+    display: flex;
+    margin-left: 327px;
+    justify-content: space-between;
+    list-style:none ;
+    color: black
+}
+
+.container-logo {
+    width: 180px;
+}
+
+.container-logo img {
+    width: 100%;
+}

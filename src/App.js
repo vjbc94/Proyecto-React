@@ -1,9 +1,10 @@
 import './App.css';
+import NavBar from './components/NavBar/NavBar';
 
 function App() {
   return (
     <div className="App">
-      <h1>React Js-CoderHouse</h1>
+      <NavBar></NavBar>
     </div>
   );
 }
